@@ -1,0 +1,14 @@
+/*<!-- Nicolas Sabbagha -->*/
+/*<!-- styles.css -->*/
+
+.intro{
+    text-align: center;
+}
+.personal{
+    border: 2px solid black;
+    margin: auto;
+}
+*{
+    text-align: center;
+    background-color: brown;
+}
